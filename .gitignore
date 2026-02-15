@@ -1,4 +1,7 @@
 # Ignore dataset contents
-/data/*
+/data/
+
+# Ignore zod_devkit_tutorial notebook
+/notebooks/zod_devkit_tutorial.ipynb
 
 /venv/
