@@ -1,7 +1,9 @@
 # Ignore dataset contents
 /data/
 
-# Ignore zod_devkit_tutorial notebook
-/notebooks/zod_devkit_tutorial.ipynb
+# Ignore zod_devkit_tutorial notebooks
+/notebooks/zod_devkit_tutorial_frames.ipynb
+/notebooks/zod_devkit_tutorial_sequences.ipynb
+/notebooks/test.gif
 
 /venv/

@@ -1,1 +1,1 @@
-## Status: Download frames_mini dataset
+## Status: Run through frames and sequences tutorial notebooks
